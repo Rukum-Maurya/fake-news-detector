@@ -1,2 +1,5 @@
+# Ignore dataset and other large files
 data/WELFake_Dataset.csv
+*.pkl
+*.joblib
 
