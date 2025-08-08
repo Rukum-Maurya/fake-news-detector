@@ -10,7 +10,7 @@ A powerful **Fake News Detector** that uses machine learning and natural languag
 
 ## 🌐 Live Demo
 
-🚀 **Streamlit App**: [https://rukum_maurya.streamlit.app](#)  
+🚀 **Streamlit App**: [https://rukum_maurya.streamlit.app](https://rukum-maurya-fake-news-detector-app-jjtb2e.streamlit.app/)  
 🔗 **GitHub Repo**: [https://github.com/Rukum-Maurya/fake-news-detector](https://github.com/Rukum-Maurya/fake-news-detector)
 
 ---
